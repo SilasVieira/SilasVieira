@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SilasVieira
-- 👀 I’m interested in technology
+- 👀 I’m interested in technology and electricity and electronics 
 - 🌱 I’m currently learning Data Analyst with Python, C#, Unity
-- 💞️ I’m looking to collaborate on Developing Games, softwares and machine learning
+- 💞️ I’m looking to collaborate on Developing Games, softwares and machine learning 
 - 📫 How to reach me my e-mail silas_vieira@outlook.com
 
 <!---
